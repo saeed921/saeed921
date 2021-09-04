@@ -18,5 +18,3 @@ Skills: Java, C, Android Studio, Firebase, MySql
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/saeed921)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/saeed921&show_icons=true)  
-
