@@ -3,7 +3,6 @@
 
 Skills: Java, C, Android Studio, Firebase, MySql
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Android Development 
 - 👯 I’m looking to collaborate on Android Mobile Apps and Problem Solving 
 - 🤔 I’m looking for help with Java Mobile Apps Developer 
