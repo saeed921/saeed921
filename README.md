@@ -20,6 +20,4 @@ Skills: Java, C, Android Studio, Firebase, MySql
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/saeed921&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/saeed921)  
-
 ![Profile views](https://gpvc.arturio.dev/https://github.com/saeed921)  
