@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi there 👋, Hi, I'm Saidur Rahman Saeed
 #### Android Mobile Apps Developer
 
-Skills: Java, C, Android Studio, Firebase, MySql
+Skills: Java, C, Problem Solving, Android Studio, Firebase, MySql, UML & Use-Case
 
 - 🌱 I’m currently learning Android 
 - 👯 I’m looking to collaborate on I’m looking to collaborate on Android Mobile Apps and Problem Solving 
